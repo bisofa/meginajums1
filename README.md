@@ -1,2 +1,3 @@
 1.mēģinājums GIT. vai izdosies? 
-jdfsjgwdjf
+jdfsjgwdjf 
+# izveido tabulu 
